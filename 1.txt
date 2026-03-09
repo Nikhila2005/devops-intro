@@ -1,1 +1,3 @@
 to check git branching command
+
+to check fetch and pull
